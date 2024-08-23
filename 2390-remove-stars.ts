@@ -5,6 +5,3 @@ export function removeStars(s: string): string {
   }
   return arr.join("");
 }
-
-// console.log(removeStars("leet**cod*e"));
-// console.log(removeStars("erase*****"));
